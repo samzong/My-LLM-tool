@@ -8,7 +8,7 @@ It's a personal record to track my engagement with various AI models and tools.
 ## Current Status
 
 - 20$/Month Winner: `Perplexity`
-- 200$/Year Winner: `Poe`
+- 200$/Year Winner: `Devv.ai`
 
 ## Description
 
@@ -28,7 +28,7 @@ including purchase time, purchase price, usage frequency, usage purpose, etc.
 | [Claude.ai Pro](https://claude.ai)                 | March 2024     | Free                   | $40.00       | not use          | Artifacts                                     |
 | [Perplexity Pro](https://www.perplexity.ai)        | August 2024    | Free                   | $20.00       | daily            | Precision Search                              |
 | [Google Colab](https://colab.research.google.com/) | August 2024    | Free                   | $29.30       | weekly           | Model Developer                               |
-| [Devv.ai](https://devv.ai)                         | September 2024 | Free                   | $180.00      | daily            | Code analysis and debug                       |
+| [Devv.ai](https://devv.ai)                         | September 2024 | Paid                   | $180.00      | daily            | Code analysis and debug                       |
 | [Openrouter.ai](https://openrouter.ai/)            | August 2024    | Paid                   | $15.20       | daily            | Replace OpenAI openai service                 |
 
 Total Moneys: $1,386.81
