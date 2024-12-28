@@ -8,7 +8,7 @@ It's a personal record to track my engagement with various AI models and tools.
 ## Current Status
 
 - 20$/Month Winner: `Perplexity`
-- 200$/Year Winner: `Devv.ai`
+- 200$/Year Winner: `Cursor`
 
 ## Description
 
@@ -30,5 +30,6 @@ including purchase time, purchase price, usage frequency, usage purpose, etc.
 | [Google Colab](https://colab.research.google.com/) | August 2024    | Free                   | $29.30       | weekly           | Model Developer                               |
 | [Devv.ai](https://devv.ai)                         | September 2024 | Paid                   | $180.00      | daily            | Code analysis and debug                       |
 | [Openrouter.ai](https://openrouter.ai/)            | August 2024    | Paid                   | $15.20       | daily            | Replace OpenAI openai service                 |
+| [Cursor]((https://www.cursor.com/)            | September 2024    | Free                   | $0.00       | daily            | Replace Devv.ai               |
 
 Total Moneys: $1,386.81
