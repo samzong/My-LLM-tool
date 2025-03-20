@@ -30,8 +30,8 @@ including purchase time, purchase price, usage frequency, usage purpose, etc.
 | [Google Colab](https://colab.research.google.com) | August 2024    | Free                   | $29.30       | weekly           | Model Developer                               |
 | [Devv.ai](https://devv.ai)                         | September 2024 | Paid                   | $180.00      | daily            | Code analysis and debug                       |
 | [Openrouter.ai](https://openrouter.ai)            | August 2024    | Paid                   | $15.20       | daily            | Replace OpenAI openai service                 |
-| [Cursor](https://www.cursor.com)            | September 2024    | Free                   | $0.00       | daily            | Replace Devv.ai               |
+| [Cursor](https://www.cursor.com)            | September 2024    | Free                   | $60.00       | daily            | Replace Devv.ai               |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio)            | November 2024    | Free                   | $0.00       | daily            |                |
 | [Grok](https://grok.com)            | December 2024    | Free                   | $0.00       | daily            |  Replace OpenAI openai service              |
 
-Total Moneys: $1,846.23
+Total Moneys: $1,906.23
